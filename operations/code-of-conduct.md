@@ -46,8 +46,4 @@ If you are being harassed by a coworker, notice that someone else is being haras
 
 If you engage in unacceptable behavior, Rumors may take any appropriate action including releasing you from employment.
 
-
-
-
-
-
+_This Code of Conduct is adapted from the [Contributor Covenant](https://contributor-covenant.org/), with additions from the [Ragtag Code of Conduct](https://ragtag.org/coc/), [Code for America Code of Conduct](https://codefordc.org/resources/codeofconduct.html), [LGBTQ in Technology Code of Conduct](http://lgbtq.technology/coc.html), [We All JS Code of Conduct](https://wealljs.org/code-of-conduct), [WHATWG Code of Conduct](https://whatwg.org/code-of-conduct), [Confab Code of Conduct](http://confabevents.com/code-of-conduct), and [Bridge Foundry Code of Conduct](https://bridgefoundry.org/code-of-conduct/gray-area)._
