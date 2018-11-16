@@ -4,7 +4,7 @@ These are our standard benefits; your employment contract might be slightly diff
 
 ## Salary
 
-We’ll direct deposit your pay on the last Friday of every month. Talk to Andy to set that up; until then, we’ll cut you a check.
+We’ll direct deposit your pay on the last Friday of every month. Talk to Andy to set that up — until then, we’ll cut you a check. Payroll is managed by Paychex. You can [create an account](https://myapps.paychex.com/) to download pay stubs.
 
 ## Time off
 
