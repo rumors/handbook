@@ -1,6 +1,11 @@
 # Performance reviews
 
-Performance reviews are employee-centric assessments lead by Andy. They are not tied to hire date, but a regular ritual that takes place in December and June. Usually they involve lunch. 
+Performance reviews are employee-centric assessments lead by Andy. They are not tied to hire date; they’re a regular ritual that takes place in December and June. Usually they involve lunch. 
+
+You and Andy should come to the review prepared to talk about these questions:
+
+- What did you do well these last six months?
+- What could you have done differently and why?
 
 As an employer, Andy will provide:
 
@@ -17,6 +22,8 @@ Your performance goals should be:
 - Ambitious and maybe a little bit uncomfortable
 - Convey endpoints and outcomes, not maintenance or continuance
 - Tangible and unambiguous
+
+
 
 New employees will have two opportunities to check in with Andy and set expectations and goals following the early days of their employment.
 
