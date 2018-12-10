@@ -1,4 +1,4 @@
-#Project handoff
+# Project handoff
 
 We’ve built the thing as mutually agreed and the client has paid us. Here’s what happens next.
 
