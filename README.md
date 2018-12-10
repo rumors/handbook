@@ -9,6 +9,7 @@ Welcome to the Rumors handbook, ongoing documentation of our operations and proc
 - Hiring and onboarding
 - [Salary and benefits](./operations/benefits.md)
 - [Performance reviews](./operations/performance-reviews.md)
+- [Yearly retrofuturespective](./operations/retrofuturespective.md)
 
 ## Process
 - [Tools we use](./process/tools.md)
