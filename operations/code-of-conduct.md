@@ -5,7 +5,8 @@
 - Respectfully ask people to stop if you are bothered.
 - If you are asked to stop harassing behaviors, do it immediately.
 - If you can't resolve a problem, contact Andy.
-# This policy covers
+
+## This policy covers
 
 Everyone who works at Rumors — in the studio in-person and virtually, and in public places as a representative of the studio. If you work here, this policy applies to you.
 
@@ -14,7 +15,6 @@ Everyone who works at Rumors — in the studio in-person and virtually, and in p
 We expect you to be respectful, kind, and transparent toward your coworkers and clients and to actively participate in critiques and meetings.
 
 Examples of behavior that contributes to creating a respectful environment include:
-
 
 - Being respectful of differing viewpoints, contexts, and experiences.
 - Using welcoming and inclusive language.
