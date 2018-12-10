@@ -11,7 +11,7 @@ Welcome to the Rumors handbook, ongoing documentation of our operations and proc
 - [Performance reviews](./operations/performance-reviews.md)
 
 ## Process
-- Tools we use
+- [Tools we use](./process/tools.md)
 - New business development
 - Bidding and contracts
 - Client onboarding
