@@ -1,4 +1,4 @@
-#Yearly retrofuturespective#
+#✨ Yearly retrofuturespective#
 
 At the end of the year, before our break, we conduct a workshop to examine how we arrived where we are now, and to develop goals and plans for what we want to work on in the next year. We use a lot of sticky notes to do the following exercises. It usually takes at least two hours.
 
