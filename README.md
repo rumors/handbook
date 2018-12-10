@@ -21,4 +21,4 @@ Welcome to the Rumors handbook, ongoing documentation of our operations and proc
 - Creative direction and visual design
 - Content strategy, information design, and user experience design
 - Frontend and backend development
-- [Client handoff](./process/handoff.md)
+- [Project handoff](./process/handoff.md)

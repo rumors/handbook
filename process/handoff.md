@@ -1,3 +1,5 @@
+#Project handoff
+
 We’ve built the thing as mutually agreed and the client has paid us. Here’s what happens next.
 
 Unless we have a maintenance contract, or a long-term partnership with an organization, we will hand off ownership of code and dependencies. Once we’ve finished training the new repository owner and the repository is transferred we delete our keys and all project related passwords from 1Password.
