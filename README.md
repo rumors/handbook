@@ -6,7 +6,7 @@ Welcome to the Rumors handbook, ongoing documentation of our operations and proc
 
 ## Operations
 - [Studio culture and operational details](./operations/studio.md)
-- [Hiring and onboarding](./operations/hiring.md)
+- Hiring and onboarding
 - [Salary and benefits](./operations/benefits.md)
 - [Performance reviews](./operations/performance-reviews.md)
 
