@@ -32,14 +32,14 @@ We use Skype, Google Hangouts, or Slack calls for remote meetings. It depends on
 
 # Time-tracking
 
-We use Harvest for time-tracking. We are planning to switch to an Airtable took in 2019. Track your time on every project, whether or not it’s billable.
+Track your time on every project, whether or not it’s billable. We use Harvest; we’re planning to switch to Airtable in 2019. 
 
 # Research, strategy & design
 - Paper, post-its, pencils for sketching and thinking
-- Dropbox for asset storage and documentation storage
+- Dropbox for asset and documentation storage
 - Dropbox Paper for early notes, design and strategic thinking, brief drafts, content development
-- Airtable for content audits and content modeling; as a CMS for early prototypes (also crm and client portal, project planning)
-- Figma initial design exploration with version history, translation early vis design ideation into interactive components
+- Airtable for content audits and modeling; as a CMS for early prototypes
+- Figma for initial design exploration and interactive components
 
 # Development
 
@@ -55,6 +55,7 @@ Use whatever code editor and browser you want.
 - Zenhub to manage development process
 - SVGOMG
 
+## Browsers
 Contractually we support “modern browsers” — any browser with substantial market share maintained by its vendor at the time of anticipated product launch, i.e. Chrome, Safari, Firefox, and Edge.	
 
 ## Hosting
