@@ -21,7 +21,7 @@ We strive to be honest, communicative, and easy to work with. We value collabora
 - New business development
 - Bidding and contracts
 - [Client onboarding](./process/client-onboarding.md)
-- Project definition and discovery
+- Research and discovery
 - Iterative cycles
 - Creative direction and visual design
 - Content strategy, information design, and user experience design
