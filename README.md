@@ -20,8 +20,7 @@ Welcome to the Rumors handbook, ongoing documentation of our operations and proc
 - New business development
 - Bidding and contracts
 - [Client onboarding](./process/client-onboarding.md)
-- Research and discovery
-- Creative direction and visual design
-- Content strategy, information design, and user experience design
+- Research, discovery, and strategy
+- Design
 - Development
 - [Project handoff](./process/handoff.md)
