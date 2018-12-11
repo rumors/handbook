@@ -58,6 +58,8 @@ What we expect from the client and their team when we embark on a project togeth
 
 - **Leadership.** We will shape a vision for a product, process, or brand — now and as it evolves over time. The client must carry forward that vision. Clients set the goals and make the final decisions, and they must be forthright in both.
 - **Advocacy.** Someone on the client’s team will act as advocate and evangelist for the project. The advocate’s job is to keep the client’s team rallying around the project goals and to defend the project’s integrity.
+- **Responsiveness.** We expect quick responses from our clients, too — usually within a day or two of delivery. We include an expected turn-around time when we send something.
+- **Access.** To keep a project moving forward, we need access to key project stakeholders — the folks who have a vested interest in the outcome of the project.
 - **Project management.** Someone on the client side will act as dedicated point person to manage schedules and deliverables, facilitate communication, and intervene when compromises are hard to reach.
 
 
