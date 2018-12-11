@@ -6,7 +6,7 @@ Welcome to the Rumors handbook, ongoing documentation of our operations and proc
 
 ## Operations
 - [Studio culture and operational details](./operations/studio.md)
-- Hiring and onboarding
+- Hiring and employee onboarding
 - [Salary and benefits](./operations/benefits.md)
 - [Performance reviews](./operations/performance-reviews.md)
 - [Yearly retrofuturespective](./operations/retrofuturespective.md)
@@ -14,9 +14,10 @@ Welcome to the Rumors handbook, ongoing documentation of our operations and proc
 
 ## Process
 - [Tools we use](./process/tools.md)
+- Planning and communication
 - New business development
 - Bidding and contracts
-- Client onboarding
+- [Client onboarding](./process/client-onboarding.md)
 - Project definition and discovery
 - Iterative cycles
 - Creative direction and visual design
