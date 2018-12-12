@@ -7,4 +7,4 @@ Regardless of the end goal, our work begins with research. We conduct interviews
 - Design and content audits
 - Competitor analysis
 
-[← Back to the Handbook](././)
+[← Back to the Handbook](/)
