@@ -45,3 +45,5 @@ At the onset of a project we'll set up a channel for that client. (Or un-archive
 - Post links to relevant documentation, notes, something you want someone to review
 - Note small updates or quick changes to the project (then file in GitHub issues)
 
+[← Back to the Handbook](./)
+
