@@ -22,7 +22,7 @@ This is also a good time to share studio news, celebrate high points or grumble 
 
 ## Calendar
 
-We use Google Calendar to mark events, meetings, major milestones, closures, vacations. Every three weeks or so we block out four to six weeks of work at a high level, project by project, on the big calendar we keep on the whiteboard.
+Every three weeks or so we block out four to six weeks of work at a high level, project by project, on the big calendar we keep on the whiteboard. Meetings and such go into the shared Google calendar.
 
 ## Quarterly progress reports
 
@@ -30,7 +30,7 @@ We meet quarterly on a [Rumors Friday](./operations/studio.md) to discuss progre
 
 ## Email
 
-Email can take up a lot of time. We use it to communicate with clients, rarely internally. Unless it is an emergency, we respond to client communication within a day or two — not instantaneously. We use Gmail.
+Email can take up a lot of time. We use it to communicate with clients, rarely internally. Unless it is an emergency, we respond to client communication within a day or two — not instantaneously.
 
 ## Slack
 

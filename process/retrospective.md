@@ -2,7 +2,7 @@
 
 A project retrospective is a discussion to analyze what was successful and unsuccessful about a project. During a retro, we positively, constructively — even optimistically — examine project process and outcomes to learn what to do better next time. Some agencies call this meeting a post-mortem. This is creepy.
 
-Project retrospectives give us a chance to formally mark the end of a project, engage with each other and the client, and improve our process.
+Project retrospectives give us a chance to mark the end of a project, engage with each other and the client, and improve our process.
 
 There are two ways we do a retro: formally, and informally.
 
@@ -43,7 +43,7 @@ What did we like about this project? What did we dislike? What were we sort of _
 
 # Ground rules
 
-- **All projects get a retrospective.** Dedicate time to reviewing the outcome of every project. There’s always something to learn.
+- **Retro everything.** Dedicate time to review the outcome of every project. There’s always something to learn.
 - **Do it right away.** Schedule the retro within three weeks of the project’s end, while everyone’s memories are fresh. On large or lengthy projects, run mini-retrospectives after milestones or development cycles.
 - **Set an agenda.** Create an agenda and share it in advance to increase the chances you’ll get thoughtful responses. Set aside an hour or longer for more complex projects. Someone should lead, and someone should take notes.
-- **Take-aways.** A retro is a waste of time if we don’t come away from it with actionable tasks and understandings. Create and self-assign specific, meaningful tasks to bring with you into the next project or cycle.
+- **Create take-aways.** A retro is a waste of time if we don’t come away from it with actionable tasks and understandings. Create and self-assign specific, meaningful tasks to bring with you into the next project or cycle.
