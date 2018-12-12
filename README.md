@@ -5,6 +5,7 @@
 Welcome to the Rumors handbook, ongoing documentation of our operations and process. Developed collaboratively, updated frequently, maintained mostly by [@frangrit](https://github.com/frangrit).
 
 ## Operations
+
 - [Studio culture and hours](./operations/studio.md)
 - Hiring and employee onboarding
 - [Salary and benefits](./operations/benefits.md)
@@ -20,7 +21,7 @@ Welcome to the Rumors handbook, ongoing documentation of our operations and proc
 - New business development
 - Bidding and contracts
 - [Client onboarding](./process/client-onboarding.md)
-- Research, discovery, and strategy
+- [Research, discovery, and strategy](./process/research-and-discovery.md)
 - Design
 - Development
 - [Project handoff](./process/handoff.md)
