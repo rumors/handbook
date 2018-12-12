@@ -2,15 +2,11 @@
 
 **⚠️ WIP ⚠️**
 
-Welcome to the Rumors handbook, ongoing documentation of our operations and process. Developed collaboratively, updated frequently, maintained mostly by [@frangrit](https://github.com/frangrit).
+The Rumors handbook is an ongoing documentation of our operations and process. It is developed collaboratively, updated frequently, and maintained mostly by [@frangrit](https://github.com/frangrit).
 
 ## Process
 
-Rumors is a small studio with five full-time designers. We work collaboratively, so while our roles are specific, they are also fluid. We are generalists, thinkers, and writers.
-
-We strive to be honest, communicative, and easy to work with.  We work in dialog with clients as equal participants. Our methodology is context-specific — a publication redesign requires a different approach than a digital strategy.
-
-Every client and project is different, though most of the time our process touches on these phases. 
+Rumors is a small studio with five full-time designers. We work collaboratively, so while our roles are specific, they are also fluid. We are generalists, thinkers, and writers. Our methodology is context-specific, and every client and project is different, but most of the time our process touches on these phases. 
 
 - Planning and communication
 - New business development
@@ -23,6 +19,8 @@ Every client and project is different, though most of the time our process touch
 - [Retrospective](./process/retrospective.md)
 
 ## Operations
+
+We strive to work with respect, kindness, transparency, and structured flexibility.
 
 - [Studio culture and hours](./operations/studio.md)
 - Hiring and employee onboarding
