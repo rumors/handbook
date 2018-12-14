@@ -35,7 +35,7 @@ We’re a small studio, so new employee onboarding can be relatively casual. Thi
 
 - [ ] All-hands introduction meeting
 - [ ] Studio and building tour
-- [ ] Go over [handbook](./) and [code of conduct](code-of-conduct.md)
+- [ ] Go over [handbook](../) and [code of conduct](code-of-conduct.md)
 
 ### Week 1
 
