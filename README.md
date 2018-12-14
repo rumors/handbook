@@ -22,7 +22,7 @@ Rumors is a small studio with five full-time designers. We work collaboratively,
 We strive to work with respect, kindness, transparency — and structured flexibility.
 
 - [Studio culture and hours](./operations/studio.md)
-- Hiring and employee onboarding
+- [Hiring and onboarding new employees](./operations/hiring-onboarding.md)
 - [Salary and benefits](./operations/benefits.md)
 - [Planning and communication](./operations/planning.md)
 - [Performance reviews](./operations/performance-reviews.md)
