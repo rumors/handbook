@@ -1,8 +1,10 @@
-# Hiring and onboarding
+# Hiring
 
-## Hiring
+We don’t hire often, and we strongly favor a good cultural fit over a particular list of skills or qualifications. 
 
-We don’t hire often, and we strongly favor a good cultural fit over a particular list of skills or qualifications. When someone new comes in for an interview, we have a casual group conversation using this as a guide for what to talk about and how.
+## Interviewing
+
+When someone new comes in for an interview, we have a casual group conversation using this as a guide for what to talk about and how.
 
 ### Best practices
 
