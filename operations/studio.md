@@ -32,4 +32,4 @@ We observe call-free Wednesdays, which means that we keep Wednesdays free of cli
 
 Fridays are our “investment time,” a concept borrowed from [Thoughtbot](https://thoughtbot.com/). We set aside every Friday for professional development, studio operations, planning, and culture, internal projects, and community participation. This could be anything from learning a new skill to attending a talk to planning a studio website redesign.
 
-[← Back to the Handbook](./)
+[← Back to the Handbook](../)
