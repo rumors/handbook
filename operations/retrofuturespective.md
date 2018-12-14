@@ -11,3 +11,5 @@ At the end of the year, before our break, we conduct a workshop to examine how w
 - **One-word outro.** Using one word, describe how you feel about next year, after conducting the workshop. Talk about it, if you want.
 
 The retros informs the kind of client work we want accept in the coming year, guides the self-initiated projects we undertake during Rumors Fridays investment time, and helps shape studio-wide and individual performance goals.
+
+[← Back to the Handbook](../README.md)

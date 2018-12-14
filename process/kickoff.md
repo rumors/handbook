@@ -59,3 +59,5 @@ Wrap up the major points in the meeting. Let everyone know what to expect next. 
 ## Post-kickoff
 
 Compile and post the meeting notes to Paper, or distribute via email to the client.
+
+[← Back to the Handbook](../README.md)

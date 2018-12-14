@@ -84,4 +84,4 @@ Track your time on every project, whether or not it’s billable. We use Harvest
 - **New business development.** Pitch meetings, writing proposals, pre-SOW meetings.
 - **Studio.** Plants, other stuff that doesn't have a home (yet).
 
-
+[← Back to the Handbook](../README.md)

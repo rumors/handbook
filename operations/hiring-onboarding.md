@@ -94,3 +94,5 @@ We’re a small studio, so new employee onboarding can be relatively casual. Thi
 ### Month 3
 
 - [ ] New hire employee performance mini-review with Andy
+
+[← Back to the Handbook](../README.md)

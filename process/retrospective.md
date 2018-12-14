@@ -47,3 +47,5 @@ What did we like about this project? What did we dislike? What were we sort of _
 - **Do it right away.** Schedule the retro within three weeks of the project’s end, while everyone’s memories are fresh. On large or lengthy projects, run mini-retrospectives after milestones or development cycles.
 - **Set an agenda.** Create an agenda and share it in advance to increase the chances you’ll get thoughtful responses. Set aside an hour or longer for more complex projects. Someone should lead, and someone should take notes.
 - **Create take-aways.** A retro is a waste of time if we don’t come away from it with actionable tasks and understandings. Create and self-assign specific, meaningful tasks to bring with you into the next project or cycle.
+
+[← Back to the Handbook](../README.md)
