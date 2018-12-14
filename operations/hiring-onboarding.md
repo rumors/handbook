@@ -10,7 +10,7 @@ We’re a small studio, so new employee onboarding can be relatively casual. Thi
 ### Week before new hire’s start date
 
 [ ] Requisition laptop, monitor, and peripherals; set up new user account
-[ ] Make a copy of studio key and fob, leave on desk
+[ ] Make a copy of studio key and fob, leave on their desk
 [ ] Set up IRA account
 [ ] Set up payroll account
 [ ] Set up Gmail account
@@ -25,16 +25,17 @@ We’re a small studio, so new employee onboarding can be relatively casual. Thi
 [ ] Add to Figma team
 [ ] Add seat to Sketch license
 [ ] Add to Adobe Creative Cloud license
-[ ] Schedule one-on-one meetings with collaborators and Andy
+[ ] Schedule first week meetings with collaborators and Andy
+[ ] Schedule 6 week check-in and 3 month performance mini-review
 [ ] Send a welcome email with details about all the above, include W4 and I9 forms
 
 🚨 _We need to write the welcome email!_
 
 ### Day 1
 
-[ ] Studio introduction meeting
-[ ] Office and building tour
-[ ] Go over handbook and code of conduct
+[ ] All-hands introduction meeting
+[ ] Studio and building tour
+[ ] Go over [handbook](./) and [code of conduct](code-of-conduct.md)
 
 ### Week 1
 
