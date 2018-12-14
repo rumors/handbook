@@ -2,7 +2,7 @@
 
 Rumors is an open-plan studio. We like to talk. We turn our chairs around a lot, we like the way face-to-face conversation brings about ideas. You’re welcome to opt out with headphones; someone may bug you in Slack to take them off. 
 
-When you agree to work here you also agree to our [code of conduct](./operations/code-of-conduct.md).
+When you agree to work here you also agree to our [code of conduct](code-of-conduct.md).
 
 
 - **Key.** Your key is on your desk. Use the keycard for after-hours access at the front door. Lock up when you leave.
@@ -31,3 +31,5 @@ We observe call-free Wednesdays, which means that we keep Wednesdays free of cli
 ### Rumors Fridays
 
 Fridays are our “investment time,” a concept borrowed from [Thoughtbot](https://thoughtbot.com/). We set aside every Friday for professional development, studio operations, planning, and culture, internal projects, and community participation. This could be anything from learning a new skill to attending a talk to planning a studio website redesign.
+
+[← Back to the Handbook](./)
