@@ -10,23 +10,23 @@ Rumors is a small studio with five full-time designers. We work collaboratively,
 
 - New business development
 - Bidding and contracts
-- [Client onboarding](./process/client-onboarding.md)
-- [Research, discovery, and strategy](./process/research-and-discovery.md)
+- [Client onboarding](process/client-onboarding.md)
+- [Research, discovery, and strategy](process/research-and-discovery.md)
 - Design
 - Development
-- [Project handoff](./process/handoff.md)
-- [Retrospective](./process/retrospective.md)
+- [Project handoff](process/handoff.md)
+- [Retrospective](process/retrospective.md)
 
 ## Operations
 
 We strive to work with respect, kindness, transparency — and structured flexibility.
 
-- [Studio culture and hours](./operations/studio.md)
-- [Hiring and onboarding new employees](./operations/hiring-onboarding.md)
-- [Salary and benefits](./operations/benefits.md)
-- [Planning and communication](./operations/planning.md)
-- [Performance reviews](./operations/performance-reviews.md)
-- [Yearly retrofuturespective](./operations/retrofuturespective.md)
-- [Code of conduct](./operations/code-of-conduct.md)
+- [Studio culture and hours](operations/studio.md)
+- [Hiring and onboarding new employees](operations/hiring-onboarding.md)
+- [Salary and benefits](operations/benefits.md)
+- [Planning and communication](operations/planning.md)
+- [Performance reviews](operations/performance-reviews.md)
+- [Yearly retrofuturespective](operations/retrofuturespective.md)
+- [Code of conduct](operations/code-of-conduct.md)
 
 🎵 
