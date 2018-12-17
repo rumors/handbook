@@ -6,7 +6,7 @@ The Rumors handbook is an ongoing documentation of our process and operations. I
 
 ## Process
 
-Rumors is a small studio with five full-time designers. We work collaboratively, so while our roles are specific, they are also fluid. We are generalists, thinkers, and writers. Our methodology is context-specific, and every client and project is different. Most of the time our process touches on these phases. 
+Rumors works with a lightweight methodology that can bend to suit the context. Our process encourages clients to perceive our worth in experience and expertise rather than in the deliverables that may be the outcome of our work.
 
 - Overview
 - [Kickoff](process/kickoff.md)
@@ -18,7 +18,7 @@ Rumors is a small studio with five full-time designers. We work collaboratively,
 
 ## Operations
 
-We strive to work with respect, kindness, transparency — and structured flexibility.
+Rumors is a small studio with five full-time designers. We work collaboratively, so while our roles are specific, they are also fluid. We are generalists, thinkers, and writers. We strive to work with respect, kindness, transparency — and structured flexibility.
 
 - [Studio](operations/studio.md)
 - Values
