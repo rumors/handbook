@@ -1,4 +1,4 @@
-# Communication and planning
+# Communication, meetings, and planning
 
 ## Daily standup
 
@@ -18,7 +18,7 @@ We observe call-free Wednesdays, which means that we keep Wednesdays free of cli
 
 Fridays are our “investment time,” a concept borrowed from [Thoughtbot](https://thoughtbot.com/). We set aside at least half a day every Friday for professional development, studio operations, planning, and culture, internal projects, and community participation. This could be anything from learning a new skill to attending a talk to planning a studio website redesign. We meet quarterly on a Rumors Friday to discuss progress toward internal projects and goals.
 
-## Weekly status meeting
+## Weekly status
 
 Every Monday we discuss the status of each of our projects in a bit more detail, project by project. Because we typically work on multiple projects at once, our weekly status meeting helps us plan out when to most effectively work on what.
 
@@ -27,6 +27,10 @@ Every Monday we discuss the status of each of our projects in a bit more detail,
 - Are there any fires to put out?
 
 This is also a good time to share studio news, celebrate high points or grumble about challenges, and to show work or share inspiration.
+
+## Meetings
+
+We use Skype, Google Hangouts, or Slack calls for remote meetings. It depends on the client. Meetings should be under an hour and should have a purpose and an agenda, even a simple one. Send a calendar invite for meetings. If someone is working remotely, conduct standup on a Slack call.
 
 ## Calendar
 
