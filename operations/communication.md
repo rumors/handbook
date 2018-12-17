@@ -8,7 +8,7 @@ Every day at 9:30am we meet for a 10-15 minute discussion of project progress. W
 - What are you planning to do today?
 - Is anything blocking you?
 
-It’s not a status meeting — we don’t need alllllll the details. And it’s not the time to do argue, demo, or solve problems. Log issues or questions and move on. Go person to person, one at a time.
+It’s not a status meeting — we don’t need all the details. And it’s not the time to argue, demo, or solve problems. Log issues or questions and move on. Go person to person, one at a time.
 
 ## Call-free Wednesdays
 
@@ -16,7 +16,7 @@ We observe call-free Wednesdays, which means that we keep Wednesdays free of cli
 
 ## Rumors Fridays
 
-Fridays are our “investment time,” a concept borrowed from [Thoughtbot](https://thoughtbot.com/). We set aside every Friday for professional development, studio operations, planning, and culture, internal projects, and community participation. This could be anything from learning a new skill to attending a talk to planning a studio website redesign.
+Fridays are our “investment time,” a concept borrowed from [Thoughtbot](https://thoughtbot.com/). We set aside at least half a day every Friday for professional development, studio operations, planning, and culture, internal projects, and community participation. This could be anything from learning a new skill to attending a talk to planning a studio website redesign. We meet quarterly on a Rumors Friday to discuss progress toward internal projects and goals.
 
 ## Weekly status meeting
 
@@ -31,10 +31,6 @@ This is also a good time to share studio news, celebrate high points or grumble 
 ## Calendar
 
 Every three weeks or so we block out four to six weeks of work at a high level, project by project, on the big calendar we keep on the whiteboard. Meetings and such go into the shared Google calendar.
-
-## Quarterly progress reports
-
-We meet quarterly on a [Rumors Friday](./operations/studio.md) to discuss progress toward internal projects and goals.
 
 ## Slack
 

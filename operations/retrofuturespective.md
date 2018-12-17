@@ -1,4 +1,4 @@
-# Yearly retrofuturespective
+# Retrofuturespective
 
 ✨
 

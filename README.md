@@ -8,6 +8,7 @@ The Rumors handbook is an ongoing documentation of our operations and process. I
 
 Rumors is a small studio with five full-time designers. We work collaboratively, so while our roles are specific, they are also fluid. We are generalists, thinkers, and writers. Our methodology is context-specific, and every client and project is different. Most of the time our process touches on these phases. 
 
+- Overview
 - [Research, discovery, and strategy](process/research-and-discovery.md)
 - Design
 - Development
@@ -19,14 +20,15 @@ Rumors is a small studio with five full-time designers. We work collaboratively,
 We strive to work with respect, kindness, transparency — and structured flexibility.
 
 - [Studio values](operations/studio.md)
+- [Code of conduct](operations/code-of-conduct.md)
 - [Salary and benefits](operations/benefits.md)
 - [Communication and planning](operations/communication.md)
 - [Employee onboarding](operations/hiring-onboarding.md)
 - [Performance reviews](operations/performance-reviews.md)
+- [Travel](operations/travel.md)
 - New business development
 - Bidding and contracts
 - [Client onboarding](operations/client-onboarding.md)
-- [Code of conduct](operations/code-of-conduct.md)
-- [Yearly retrofuturespective](operations/retrofuturespective.md)
+- [Retrofuturespective](operations/retrofuturespective.md)
 
 🎵 
