@@ -25,11 +25,11 @@ We work collaboratively, so while our roles are specific, they are also fluid. W
 - [Code of conduct](operations/code-of-conduct.md)
 - [Salary and benefits](operations/benefits.md)
 - [Communication, meetings, and planning](operations/communication.md)
-- [Employee onboarding](operations/hiring-onboarding.md)
+- [Hiring and employee onboarding](operations/hiring-onboarding.md)
 - [Performance reviews](operations/performance-reviews.md)
 - [Travel](operations/travel.md)
 - New business development
-- [Proposals and contracts](operations/contracts.md)
+- [Proposals and contracts](operations/proposals-contracts.md)
 - [Client onboarding](operations/client-onboarding.md)
 - [Retrofuturespective](operations/retrofuturespective.md)
 
