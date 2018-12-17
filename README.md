@@ -2,7 +2,7 @@
 
 **⚠️ WIP ⚠️**
 
-The Rumors handbook is an ongoing documentation of our operations and process. It is developed collaboratively, updated frequently, and maintained mostly by [@frangrit](https://github.com/frangrit). Propose changes in [issues](https://github.com/rumors/handbook/issues), or open a pull request.
+The Rumors handbook is an ongoing documentation of our process and operations. It is developed collaboratively, updated frequently, and maintained mostly by [@frangrit](https://github.com/frangrit). Propose changes in [issues](https://github.com/rumors/handbook/issues), or open a pull request.
 
 ## Process
 
@@ -13,14 +13,15 @@ Rumors is a small studio with five full-time designers. We work collaboratively,
 - [Research, discovery, and strategy](process/research-discovery-strategy.md)
 - Design
 - Development
-- [Project handoff](process/handoff.md)
+- [Handoff](process/handoff.md)
 - [Retrospective](process/retrospective.md)
 
 ## Operations
 
 We strive to work with respect, kindness, transparency — and structured flexibility.
 
-- [Studio values](operations/studio.md)
+- [Studio](operations/studio.md)
+- Values
 - [Code of conduct](operations/code-of-conduct.md)
 - [Salary and benefits](operations/benefits.md)
 - [Communication, meeting, and planning](operations/communication.md)
