@@ -6,7 +6,7 @@ The Rumors handbook is an ongoing documentation of our process and operations. I
 
 ## Process
 
-Rumors uses a lightweight process that yields to context. It encourages clients to perceive our worth in experience and expertise rather than in the deliverables that may be the outcome of our work.
+We use a lightweight process that yields to context. It encourages clients to perceive our worth in experience and expertise rather than in the deliverables that may be the outcome of our work.
 
 - Overview
 - [Kickoff](process/kickoff.md)
@@ -18,7 +18,7 @@ Rumors uses a lightweight process that yields to context. It encourages clients 
 
 ## Operations
 
-Rumors is a small studio operating in an environment of structured flexibility. We work collaboratively, so while our roles are specific, they are also fluid. We are generalists, thinkers, and writers and we strive to work with respect, kindness, and transparency.
+We work collaboratively, so while our roles are specific, they are also fluid. We are generalists, thinkers, and writers and we strive to work with respect, kindness, and transparency.
 
 - [Studio](operations/studio.md)
 - Values
