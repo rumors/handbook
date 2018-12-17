@@ -24,12 +24,12 @@ We work collaboratively, so while our roles are specific, they are also fluid. W
 - Values
 - [Code of conduct](operations/code-of-conduct.md)
 - [Salary and benefits](operations/benefits.md)
-- [Communication, meeting, and planning](operations/communication.md)
+- [Communication, meetings, and planning](operations/communication.md)
 - [Employee onboarding](operations/hiring-onboarding.md)
 - [Performance reviews](operations/performance-reviews.md)
 - [Travel](operations/travel.md)
 - New business development
-- Bidding and contracts
+- [Proposals and contracts](operations/contracts.md)
 - [Client onboarding](operations/client-onboarding.md)
 - [Retrofuturespective](operations/retrofuturespective.md)
 
