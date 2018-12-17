@@ -10,7 +10,7 @@ Rumors is a small studio with five full-time designers. We work collaboratively,
 
 - Overview
 - [Kickoff](process/kickoff.md)
-- [Research, discovery, and strategy](process/research-and-discovery.md)
+- [Research, discovery, and strategy](process/research-discovery-strategy.md)
 - Design
 - Development
 - [Project handoff](process/handoff.md)
