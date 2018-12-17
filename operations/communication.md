@@ -1,6 +1,6 @@
-# Planning and communication
+# Communication and planning
 
-## Standup
+## Daily standup
 
 Every day at 9:30am we meet for a 10-15 minute discussion of project progress. We answer these questions:
 
@@ -10,7 +10,15 @@ Every day at 9:30am we meet for a 10-15 minute discussion of project progress. W
 
 It’s not a status meeting — we don’t need alllllll the details. And it’s not the time to do argue, demo, or solve problems. Log issues or questions and move on. Go person to person, one at a time.
 
-## Status meeting
+## Call-free Wednesdays
+
+We observe call-free Wednesdays, which means that we keep Wednesdays free of client calls, video chats, and client meetings in the studio. We try to avoid internal meetings, too. That leaves us with a full midweek day for heads-down work.
+
+## Rumors Fridays
+
+Fridays are our “investment time,” a concept borrowed from [Thoughtbot](https://thoughtbot.com/). We set aside every Friday for professional development, studio operations, planning, and culture, internal projects, and community participation. This could be anything from learning a new skill to attending a talk to planning a studio website redesign.
+
+## Weekly status meeting
 
 Every Monday we discuss the status of each of our projects in a bit more detail, project by project. Because we typically work on multiple projects at once, our weekly status meeting helps us plan out when to most effectively work on what.
 
@@ -28,10 +36,6 @@ Every three weeks or so we block out four to six weeks of work at a high level, 
 
 We meet quarterly on a [Rumors Friday](./operations/studio.md) to discuss progress toward internal projects and goals.
 
-## Email
-
-Email can take up a lot of time. We use it to communicate with clients, rarely internally. Unless it is an emergency, we respond to client communication within a day or two — not instantaneously.
-
 ## Slack
 
 We use Slack as an internal communication tool to chat about projects, studio news, and other stuff.
@@ -44,6 +48,12 @@ At the onset of a project we'll set up a channel for that client. (Or un-archive
 - Ask for help or feedback on a technical detail
 - Post links to relevant documentation, notes, something you want someone to review
 - Note small updates or quick changes to the project (then file in GitHub issues)
+
+Don’t `@` mention other coworkers outside of working hours. If someone shares something off hours, there is no expectation that you will respond.
+
+## Email
+
+Email can take up a lot of time. We use it to communicate with clients, rarely internally. Unless it is an emergency, we respond to client communication within a day or two — not instantaneously.
 
 [← Back to the Handbook](../README.md)
 
