@@ -18,7 +18,7 @@ We use a lightweight process that yields to context. It encourages clients to pe
 
 ## Operations
 
-We work collaboratively, so while our roles are specific, they are also fluid. We are generalists, thinkers, and writers. We strive to work with respect, kindness, and transparency.
+We offer an environment of structured flexibility and strive to work with respect, kindness, and transparency.
 
 - [About us](operations/about.md)
 - [Code of conduct](operations/code-of-conduct.md)
