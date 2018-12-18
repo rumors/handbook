@@ -1,5 +1,19 @@
 # Communication, meetings, and planning
 
+Rumors is an open-plan studio. We like to talk. We turn our chairs around a lot, we like the way face-to-face conversation brings about ideas. You’re welcome to opt out with headphones; someone may bug you in Slack to take them off.
+
+## Hours
+
+The studio is open Monday through Friday, 9am to 5pm. Daily standup begins at 9:30am. Within business hours we offer structured flexibility, which means that you can do things like:
+
+- Work from another location.
+- Shift your daily hours to avoid a bad commute, or break up the day into productive chunks.
+- Step away from your work in micro-increments of 1-3 hours to accommodate the unexpected.
+
+Notify your co-workers on Slack if you’ll be working remotely for the day, ideally the day before or in the morning. There’s no limit to the number of times you can work remotely — coordinate with co-workers and be sure to check the impact your physical absence may have.
+
+Let us know in advance if you won’t be available during business hours, and put it in the calendar. Sometimes emergencies arise. Let everyone know over Slack as soon as you know your schedule.
+
 ## Daily standup
 
 Every day at 9:30am we meet for a 10-15 minute discussion of project progress. We answer these questions:
