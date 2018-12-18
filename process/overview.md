@@ -1,3 +1,9 @@
 # Process overview	
 
+- **Avoid writing a detailed statement of work.** In the early stages of a potential project, we discover as much as we can, but to create a detailed plan now is folly. Too much is uknown.
+- **Something’s got to give.** Projects with a fixed schedule, fixed requirements list, and fixed budget are a disaster. Schedule is directly tied to a project’s scope, and what we learn in the research phase of a project inevitably changes the intitally understood scope. Do we want our clients to be tied rigidly to our very early understanding of a project, even as we uncover new and interesting ideas and field requests as it evolves? As much as possible, we work with clients to flip the [iron triangle](https://www.atlassian.com/agile/agile-at-scale/agile-iron-triangle), so that resources and time help us estimate a project’s scope and therefore budget.
+- **Strategic kickoffs are imperative and billable.** We engage with clients in strategy and planning sessions, stakeholder interviews, and user research, ideally on site, helping to determine project priorities and desired outcomes.
+- **Strategic brief.** From the kickoff and initial research, we create a written strategic brief outlining our findings and recommendations.
+- **Roadmap.** In many cases, we also work with the client to create a prioritized product roadmap, which gives us a general sense of how long the project might take given what we know at the outset — which is not much. The roadmap covers the overall trajectory of goals, initiatives, and possible releases for a single product, and can evolve into the user stories that ultimately populate the development backlog.
 
+Some projects end here. But most projects continue with sets of design and development cycles.
