@@ -1,40 +1,27 @@
 # Studio
 
-Rumors is an open-plan studio. We like to talk. We turn our chairs around a lot, we like the way face-to-face conversation brings about ideas. You’re welcome to opt out with headphones; someone may bug you in Slack to take them off. 
+“Is it specific? Does it benefit the user? Does it translate ideas into form?”
+These are the criteria we judge our work by: Websites should be built with specific awareness of context and audience, in order to address the right needs. Interfaces should benefit the user, providing user-centric experiences that delight and inform. Finally, the work should translate ideas into form, making use of design’s capacity to convey meaning through style and behavior.1
+How do we ensure our work meets this criteria, and why do we think this makes us the ideal fit for CCA?
+We prioritize research. We talk to stakeholders, interview users, audit the existing site, consider the market, and conduct additional exercises and workshops in an attempt to understand the needs, opportunities, and potential hazards of the work at hand.
+We develop strategic solutions. This requires an understanding of the resources, both technological and human, that provide the backbone of the website moving forward. Better to create a streamlined set of tools that provide flexible outcomes than an enormous toolkit of options that ignore the reality of staff limitations.
+We marry forward-thinking design to user-centric experiences. Our goal is to create innovative interfaces that are compelling and rewarding. We avoid routine solutions, and instead value new ideas that address a client’s unique message and needs. We refuse to chase after the novel if it results in unnecessary frustration.
+We develop close relationships with our clients. We dislike the idea that “the best clients get out of the way,” so we value close contact, frequent check-ins, collaboration, and engagement. Good work requires a good working relationship, and direct access to stakeholders and decision makers. Our clients like working with us. Check our references!
 
-When you agree to work here you also agree to our [code of conduct](code-of-conduct.md).
+https://vimeo.com/182326074
+If you’ve got half an hour to spare, you can watch Andy give a talk about these
+ ideas, and the failure of traditional “user experience” solutions to address them.
+
+
 
 ## Values
 
-TK
-
-## Hours
-
-The studio is open Monday through Friday, 9am to 5pm. Daily standup begins at 9:30am. Within business hours we offer structured flexibility, which means that you can do things like:
-
-- Work from another location.
-- Shift your daily hours to avoid a bad commute, or break up the day into productive chunks.
-- Step away from your work in micro-increments of 1-3 hours to accommodate the unexpected.
-
-Notify your co-workers on Slack if you’ll be working remotely for the day, ideally the day before or in the morning. There’s no limit to the number of times you can work remotely — coordinate with co-workers and be sure to check the impact your physical absence may have.
-
-Let us know in advance if you won’t be available during business hours, and put it in the calendar. Sometimes emergencies arise. Let everyone know over Slack as soon as you know your schedule.
-
-## Space
-
-- **Key.** Your key is on your desk. Use the keycard for after-hours access at the front door. Lock up when you leave.
-- **Heat, air conditioning, windows.** The remote is on the wall near the unit. Turn it off and close the windows when you leave.
-- **Trash and recycling.** We take turns taking out the trash and recycling, which is kept in the garage, accessible under the main stairwell in the lobby. Take out the trash on Friday when you leave.
-- **Bike room.** There’s a bike room on the ground floor. The code is on the whiteboard.
-- **Bathroom.** Bathroom code for our floor is on the whiteboard.
-- **Music.** Everyone is welcome to listen to music over the studio speaker. We all reserve the right to politely ask you to turn down the music, or turn it off altogether.
-- **Coffee, food, water.** We take turns bringing coffee beans. Make a pot if you’re the first to arrive. Any snacks on the shelves and La Croix in the refrigerator is for everyone. Otherwise, ask. If the water cooler is empty, refill it. Wash your dishes.
-- **Plants.** 
+When you agree to work here you also agree to our [code of conduct](code-of-conduct.md).
 
 ## Staff
 
 - [Frances Duncan](mailto:frances@rumo.rs), strategist and producer
-- [Eric Gardner](mailto:eric@rumo.rs), lead developer
+- [Eric Gardner](mailto:Eric@rumo.rs), lead developer
 - [Gina Giampaolo](mailto:gina@rumo.rs), designer and developer
 - [Caleb Misclevitz](mailto:caleb@rumo.rs), designer and developer
 - [Andy Pressman](mailto:andy@rumo.rs), principal

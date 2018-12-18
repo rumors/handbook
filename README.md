@@ -20,17 +20,18 @@ We use a lightweight process that yields to context. It encourages clients to pe
 
 We work collaboratively, so while our roles are specific, they are also fluid. We are generalists, thinkers, and writers and we strive to work with respect, kindness, and transparency.
 
-- [Studio](operations/studio.md)
-- Values
+- [About the studio](operations/studio.md)
 - [Code of conduct](operations/code-of-conduct.md)
-- [Salary and benefits](operations/benefits.md)
 - [Communication, meetings, and planning](operations/communication.md)
-- [Hiring and employee onboarding](operations/hiring-onboarding.md)
+- [Hiring](operations/hiring.md)
+- [New employee onboarding](operations/new-employees.md)
+- [Salary and benefits](operations/benefits.md)
 - [Performance reviews](operations/performance-reviews.md)
 - [Travel](operations/travel.md)
 - New business development
 - [Proposals and contracts](operations/proposals-contracts.md)
 - [Client onboarding](operations/client-onboarding.md)
 - [Retrofuturespective](operations/retrofuturespective.md)
+
 
 🎵 
