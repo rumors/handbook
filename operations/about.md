@@ -1,4 +1,4 @@
-# Studio
+# About us
 
 **Is it specific? Does it benefit the user? Does it translate ideas into form?**
 
