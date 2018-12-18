@@ -15,7 +15,9 @@ How do we ensure our work meets this criteria?
 
 ## Values
 
-TK
+These values drive our work.
+
+TK 😬 
 
 When you agree to work here you also agree to our [code of conduct](code-of-conduct.md).
 
