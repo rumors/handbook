@@ -11,7 +11,7 @@ How do we ensure our work meets this criteria?
 - **We marry forward-thinking design to user-centric experiences.** Our goal is to create innovative interfaces that are compelling and rewarding. We avoid routine solutions, and instead value new ideas that address a client’s unique message and needs. We refuse to chase after the novel if it results in unnecessary frustration.
 - **We develop close relationships with our clients.** We dislike the idea that “the best clients get out of the way,” so we value close contact, frequent check-ins, collaboration, and engagement. Good work requires a good working relationship, and direct access to stakeholders and decision makers. Our clients like working with us. Check our references!
 
-[^1] _If you’ve got half an hour to spare, you can [watch Andy give a talk](https://vimeo.com/182326074) about these ideas, and the failure of traditional “user experience” solutions to address them._
+[^1]: _If you’ve got half an hour to spare, you can [watch Andy give a talk](https://vimeo.com/182326074) about these ideas, and the failure of traditional “user experience” solutions to address them._
 
 ## Values
 
