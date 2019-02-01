@@ -1,8 +1,6 @@
 # License
 
-## Summary
-
-This is a human-readable summary of the license, Creative Commons Attribution 4.0 International.
+This is a human-readable summary of the license, [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
 
 You are free to:
 
