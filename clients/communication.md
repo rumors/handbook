@@ -2,7 +2,6 @@
 
 We like to keep in touch — frequent, open communication is the best way to keep a project on track and spot potential roadblocks before they become insurmountable. 
 
-
 ## Meetings
 
 Meetings should be under an hour and should have a purpose and an agenda, even a simple one. Most of our projects have these standing meetings:
@@ -17,9 +16,9 @@ Meetings should be under an hour and should have a purpose and an agenda, even a
 
 We use a variety of tools to communicate with clients and with each other, and we’re comfortable adding to this list the tools that your team uses, too.
 
-- **Phone.** Best for clearing up questions. One phone call is almost always more expedient than a series of emails.
-- **Google Calendar and Hangouts.** We Google Calendar to keep track of meetings. We’ll send you an invitation that includes a Hangout link for videoconference meetings.
-- **Email.** For quick questions, setting up meetings, exchanging documents, getting feedback. On large, long-term projects, we send a weekly wrap-up letting you know what we’ve worked on and what’s up next.
+- **Phone.** One phone call is almost always more expedient than a series of emails.
+- **Google Calendar and Hangouts.** We’ll send you a calendar invitation for calls and meetings. If it’s a video conference, the invitation will include a Hangout link.
+- **Email.** On large, long-term projects, we send a weekly wrap-up letting you know what we worked on and what’s up next.
 - **Dropbox Paper.** An excellent document-creation tool where we keep notes, project plans and roadmaps, briefs, and other text and writing.
 - **Slack.** For in-office communication, especially if the team is distributed. If your team uses Slack, we can create a shared channel for your project.
 - **GitHub.** Manages tasks and code for each project.
