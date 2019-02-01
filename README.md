@@ -2,36 +2,11 @@
 
 **⚠️ WIP ⚠️**
 
-The Rumors handbook is an ongoing documentation of our process and operations. It is developed collaboratively, updated frequently, and maintained mostly by [@frangrit](https://github.com/frangrit). Propose changes in [issues](https://github.com/rumors/handbook/issues), or open a pull request.
+The Rumors handbook is an ongoing documentation of our process and operations. It is developed collaboratively, updated frequently, and maintained mostly by [@frangrit](https://github.com/frangrit). There are two sections, written with different audiences in mind:
 
-## Process
+- The [client welcome packet](clients/index.md) is an overview of our approach and what we expect during client engagements.
+- The [employee handbook](employees/index.md) goes into great detail about what we do, how we do it, and our guiding philosophies, plus practical matters like operating hours and benefits.
 
-We use a lightweight process that yields to context. It encourages clients to perceive our worth in experience and expertise rather than in the deliverables that may be the outcome of our work.
-
-- Overview
-- [Kickoff](process/kickoff.md)
-- [Research, discovery, and strategy](process/research-discovery-strategy.md)
-- Design
-- Development
-- [Handoff](process/handoff.md)
-- [Retrospective](process/retrospective.md)
-
-## Operations
-
-We offer an environment of structured flexibility and strive to work with respect, kindness, and transparency.
-
-- [About us](operations/about.md)
-- [Code of conduct](operations/code-of-conduct.md)
-- [Communication, meetings, and planning](operations/communication.md)
-- [Hiring](operations/hiring.md)
-- [New employee onboarding](operations/new-employees.md)
-- [Salary and benefits](operations/benefits.md)
-- [Performance reviews](operations/performance-reviews.md)
-- [Travel](operations/travel.md)
-- New business development
-- [Proposals and contracts](operations/proposals-contracts.md)
-- [Client onboarding](operations/client-onboarding.md)
-- [Retrofuturespective](operations/retrofuturespective.md)
-
+Propose changes in [issues](https://github.com/rumors/handbook/issues), or open a pull request. 
 
 🎵 
