@@ -24,7 +24,6 @@ When you agree to work here you agree to our [code of conduct](code-of-conduct.m
 We work collaboratively, so while our roles are specific, they are also fluid. We are generalists, thinkers, and writers. 
 
 - [Frances Duncan](mailto:frances@rumo.rs), strategist and producer
-- [Eric Gardner](mailto:eric@rumo.rs), lead developer
 - [Gina Giampaolo](mailto:gina@rumo.rs), designer and developer
 - [Caleb Misclevitz](mailto:caleb@rumo.rs), designer and developer
 - [Andy Pressman](mailto:andy@rumo.rs), principal
