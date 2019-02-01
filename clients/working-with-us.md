@@ -9,8 +9,12 @@ everyone@rumo.rs
 
 ## In this guide
 
-- X
-- Y
-- Z
+- [Studio hours](hours.md)
+- [Our process](process.md)
+- [Communication](communication.md)
+- [Who we are](who-we-are.md)
+- [Your role](your-role.md)
+- [What’s next](whats-next.md)
+
 
 🎵
