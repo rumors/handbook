@@ -14,7 +14,6 @@ everyone@rumo.rs
 - [Communication](communication.md)
 - [Who we are](who-we-are.md)
 - [Your role](your-role.md)
-- [What’s next](whats-next.md)
 
 ## What’s next
 
