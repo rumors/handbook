@@ -7,4 +7,4 @@ Rumors is a small studio with four full-time designers. We work collaboratively,
 - **Gina Giampaolo**, designer and developer
 - **Caleb Misclevitz**, designer and developer
 
-Sometimes we partner with specialists to help us better address your project’s specific needs. We’ll let you know if we’ve brought someone new to the team .
+Sometimes we partner with specialists to help us better address your project’s specific needs. We’ll let you know if we’ve brought someone new to the team.
