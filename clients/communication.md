@@ -31,7 +31,7 @@ We expect quick responses from you, too. We’ll include an expected turn-around
 
 ## Access
 
-In order to get the sign-offs we need to keep a project moving forward, it’s important that we’re granted access to key project stakeholders — the folks who have a vested interest in the outcome of the project. If someone has a role to play in the project, or a valuable opinion on its outcome, it’s important that you put us in touch.
+In order to get the sign-offs we need to keep a project moving forward, it’s important that we’re granted access to key project stakeholders — the people who have a vested interest in the outcome of the project. If someone has a role to play in the project, or a valuable opinion on its outcome, it’s important that you put us in touch.
 
 ## Change management
 
@@ -42,4 +42,4 @@ Inevitably new ideas come up during a project’s progress, and you need to ask 
 - **Bill hourly.** If we have the time, we may bill extra for the new work. Usually this happens when your request clearly falls outside of the original scope of work.
 - **Create a new project phase.** Another option is to roll this request, and any others, into a new phase of the project, for which we’ll write a whole new statement of work.
 
-Good questions to ask yourself before requesting a change are: Does the requested change help to meet the original project goals? Is it part of the original project as defined in the statement of work? If you’re not sure, ask. If your request falls outside of the scope of the project, we’ll let you know why, and how best to address it.
+Does the requested change help to meet the original project goals? Is it part of the original project as defined in the statement of work? If you’re not sure, ask. If your request falls outside of the scope of the project, we’ll let you know why, and how best to address it.
