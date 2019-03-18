@@ -2,7 +2,7 @@
 
 ## 🥪 
 
-Places to eat lunch near the studio
+Lunch near the studio
 
 - Meat Cheese Bread, 1406 SE Stark St
 - Sammich, 2137 E Burnside St
@@ -17,7 +17,14 @@ Places to eat lunch near the studio
 
 ## ☕ 
 
+Coffee near the studio
+
 - Heart, 2211 E Burnside St
 - Rocking Frog, 2511 SE Belmont St
 - Coava, 2631 SE Hawthorne Blvd
 - Cloudforest, 1411 SE Stark St
+
+
+## 🍻 
+
+We rarely go out for drinks, but this could change, who knows
