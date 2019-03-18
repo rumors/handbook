@@ -1,5 +1,7 @@
 # Food
 
+## 🥪 
+
 Places to eat lunch near the studio
 
 - Meat Cheese Bread, 1406 SE Stark St
@@ -12,3 +14,10 @@ Places to eat lunch near the studio
 - Blackbird Pizza, 1935 SE Hawthorne Blvd
 - Little Big Burger, 2028 SE Hawthorne Blvd
 - Grand Central Bakery, 2230 SE Hawthorne Blvd
+
+## ☕ 
+
+- Heart
+- Coava
+- Rocking Frog
+- Cloudforest
