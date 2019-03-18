@@ -17,7 +17,7 @@ Places to eat lunch near the studio
 
 ## ☕ 
 
-- Heart
-- Coava
-- Rocking Frog
-- Cloudforest
+- Heart, 2211 E Burnside St
+- Rocking Frog, 2511 SE Belmont St
+- Coava, 2631 SE Hawthorne Blvd
+- Cloudforest, 1411 SE Stark St
