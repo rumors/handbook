@@ -18,7 +18,7 @@ Hello, let’s document:
 Each issue in a project should have a story points estimate value by the time in lands in a specific cycle’s backlog. This is the system we’re trying now. It could change.
 
 | Time        | Story points |
-| ----------- | ------------ |
+| ----------: | ------------ |
 | < 1 day     | 1      		 |
 | 1 day       | 2      		 |
 | 2 days      | 4      		 |
