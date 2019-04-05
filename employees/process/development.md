@@ -7,10 +7,9 @@
 Hello, let’s document:
 
 - Zenhub
-- Issues, labels
-- Milestones, releases
-- Testing
-- Deployment practices
+- Issues
+- Labels, columns, milestones, epics, and other organizational tools
+- Deployment practices, including pull requests and releases
 - QA
 - Accessibility
 
