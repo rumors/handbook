@@ -1,6 +1,6 @@
 # Process
 
-We strive to be honest, communicative, and easy to work with. We value collaboration, and work in dialog with clients as equal participants, and our whole team is involved in a project from the start -- strategy, design, and development. Our methodology is context-specific — a publication redesign requires a different approach than a digital strategy. Every client and project is different, but much of the time our process will look something like this. 
+We strive to be honest, communicative, and easy to work with. We value collaboration, and work in dialog with clients as equal participants. Our methodology is context-specific — a publication redesign requires a different approach than a digital strategy. Every client and project is different, but much of the time our process will look something like this. 
 
 - Discover what we can about a potential project, but avoid writing a detailed statment of work. At this point, too much is unknown. We don’t want clients to be tied to our very early understanding of a project, as we inevitably uncover new and interesting ideas. This flexibility allows us to field requests and accommodate changes as the project progresses.
 - Engage with clients in a kickoff meeting, strategy and planning sessions, stakeholder interviews, and user research, ideally on-site, to determine project priorities and outcomes
