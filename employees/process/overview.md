@@ -1,5 +1,6 @@
 # Process overview
 
+**⚠️ WIP ⚠️**
 
 - We discover what we can about a potential project, but avoid writing a detailed proposal or statement of work. At this point, too much is unknown. We don’t want clients to be tied to our very early understanding of a project, as we inevitably uncover new and interesting ideas and requirements. This flexibility allows us to field requests and accommodate changes as the project progresses.
 - At a project's onset, we hold a [kickoff meeting](kickoff.md), ideally on-site, with the client, to determine project priorities and outcomes. After the kickoff meeting, we may engage in [strategy](discovery-research-strategy.md) and planning sessions, [stakeholder interviews](stakeholder-interviews.md), [research](discovery-research-strategy.md), and exploratory [design](design.md).

@@ -1,14 +1,17 @@
 # Development
 
+**⚠️ WIP ⚠️**
 
-
-## Github
+### People
+### Tools
+### Artifacts and deliverables
+### Meetings
+### Decisions and outcomes
 
 Hello, let’s document:
 
-- Zenhub
-- Issues
-- Labels, columns, milestones, epics, and other organizational tools
+- Github and Zenhub
+- Issues, labels, columns, milestones, epics, and other organizational tools
 - Deployment practices, including pull requests and releases
 - QA
 - Accessibility
