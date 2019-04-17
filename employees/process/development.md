@@ -29,4 +29,4 @@ Each issue in a project should have a story points estimate value by the time in
 | + days  	  | 96      	 |
 
 
-We aim for a two week sprint cycle to be somewhere in the neighborhood of 12-14 story points. Of course, things start to break down when you get 12 or even 6 story points. These values are more like placeholders; a way to track the complexity of an issue before it gets smaller, more specific, or more known.
+We aim for a two week sprint cycle to be somewhere in the neighborhood of 12-14 story points. Things start to break down when you get 12 or even 6 story points. These values are more like placeholders — a way to track the complexity of an issue before it gets smaller, more specific, or more known.
