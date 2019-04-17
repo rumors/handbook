@@ -6,11 +6,11 @@
 
 We use a lightweight process that yields to context. It encourages clients to perceive our worth in experience and expertise rather than in the deliverables that may be the outcome of our work.
 
-- Overview
+- [Overview](process/overview.md)
 - [Kickoff](process/kickoff.md)
-- [Research, discovery, and strategy](process/research-discovery-strategy.md)
-- Design
-- Development
+- [Discovery, research, and strategy](process/research-discovery-strategy.md)
+- [Design](process/design.md)
+- [Development](process/development.md)
 - [Handoff](process/handoff.md)
 - [Retrospective](process/retrospective.md)
 
