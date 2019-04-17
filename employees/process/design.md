@@ -1,24 +1,4 @@
-
-
-
-
-# Strategy
-
-## People
-
-## Tools
-
-## Artifacts and deliverables
-- Content audit
-- Competitor analysis
-- Creative brief
-- Roadmap
-
-## Meetings
-## Decisions and outcomes
-
 # Design
-
 ## People
 
 ## Tools
