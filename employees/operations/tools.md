@@ -30,6 +30,3 @@ Hosting depends on the project needs, but we like to use these services.
 - AWS S3/Google Cloud
 - Heroku
 - Netlify
-
-[← Back to the Handbook](../README.md)
-

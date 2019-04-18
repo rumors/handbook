@@ -72,5 +72,3 @@ Don’t `@` mention other coworkers outside of working hours. If someone shares 
 
 Email can take up a lot of time. We use it to communicate with clients, rarely internally. Unless it is an emergency, we respond to client communication within a day or two — not instantaneously.
 
-[← Back to the Handbook](../README.md)
-
