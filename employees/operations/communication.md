@@ -1,4 +1,4 @@
-# Communication, meetings, and planning
+# Communication, meetings, and regular rituals
 
 Rumors is an open-plan studio. We like to talk. We turn our chairs around a lot, we like the way face-to-face conversation brings about ideas. You’re welcome to opt out with headphones; someone may bug you in Slack to take them off.
 
@@ -26,11 +26,11 @@ It’s not a status meeting — we don’t need all the details. And it’s not 
 
 ## Call-free Wednesdays
 
-We observe call-free Wednesdays, which means that we keep Wednesdays free of client calls, video chats, and client meetings in the studio. We try to avoid internal meetings, too. That leaves us with a full midweek day for heads-down work.
+We observe call-free Wednesdays, which means that we keep Wednesdays free of client calls, video chats, and meetings in the studio. That leaves us with a full midweek day for heads-down work.
 
 ## Rumors Fridays
 
-Fridays are our “investment time,” a concept borrowed from [Thoughtbot](https://thoughtbot.com/). We set aside at least half a day every Friday for professional development, studio operations, planning, and culture, internal projects, and community participation. This could be anything from learning a new skill to attending a talk to planning a studio website redesign. We meet quarterly on a Rumors Friday to discuss progress toward internal projects and goals.
+The first Friday of every month is “investment time,” a concept borrowed from [Thoughtbot](https://thoughtbot.com/). We set aside at least half this day for professional development, studio operations, planning, and culture, internal projects, field trips, and community participation. We meet quarterly on a Rumors Friday to discuss progress toward internal projects and goals.
 
 ## Weekly status
 

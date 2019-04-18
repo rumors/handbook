@@ -17,7 +17,6 @@ These values drive our work.
 
 TK 😬 
 
-When you agree to work here you agree to our [code of conduct](code-of-conduct.md).
 
 ## Staff
 
@@ -27,6 +26,8 @@ We work collaboratively, so while our roles are specific, they are also fluid. W
 - [Gina Giampaolo](mailto:gina@rumo.rs), designer and developer
 - [Caleb Misclevitz](mailto:caleb@rumo.rs), designer and developer
 - [Andy Pressman](mailto:andy@rumo.rs), principal
+
+Everyone who works here agrees to our [code of conduct](code-of-conduct.md).
 
 
 ## History
