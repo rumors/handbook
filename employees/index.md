@@ -1,7 +1,5 @@
 # Welcome
 
-
-
 ## Process
 
 We use a lightweight process that yields to context. It encourages clients to value our experience and expertise over any deliverables that may be the outcome of our work.

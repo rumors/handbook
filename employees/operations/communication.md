@@ -22,15 +22,7 @@ Every day at 9:30am we meet for a 10-15 minute discussion of project progress. W
 - What are you planning to do today?
 - Is anything blocking you?
 
-It’s not a status meeting — we don’t need all the details. And it’s not the time to argue, demo, or solve problems. Log issues or questions and move on. Go person to person, one at a time.
-
-## Call-free Wednesdays
-
-We observe call-free Wednesdays, which means that we keep Wednesdays free of client calls, video chats, and meetings in the studio. That leaves us with a full midweek day for heads-down work.
-
-## Rumors Fridays
-
-The first Friday of every month is “investment time,” a concept borrowed from [Thoughtbot](https://thoughtbot.com/). We set aside at least half this day for professional development, studio operations, planning, and culture, internal projects, field trips, and community participation. We meet quarterly on a Rumors Friday to discuss progress toward internal projects and goals.
+It’s not a status meeting and it’s not the time to argue, demo, or solve problems. Log issues or questions and move on. Go person to person, one at a time.
 
 ## Weekly status
 
@@ -42,13 +34,24 @@ Every Monday we discuss the status of each of our projects in a bit more detail,
 
 This is also a good time to share studio news, celebrate high points or grumble about challenges, and to show work or share inspiration.
 
-## Meetings
+## Sprint planning
+We plan sprints every two weeks or as necessary for a project.
 
-We use Skype, Google Hangouts, or Slack calls for remote meetings. It depends on the client. Meetings should be under an hour and should have a purpose and an agenda, even a simple one. Send a calendar invite for meetings. If someone is working remotely, conduct standup on a Slack call.
+## Call-free Wednesdays
+
+We observe call-free Wednesdays, which means that we keep Wednesdays free of client calls, video chats, and meetings in the studio. That leaves us with a full midweek day for heads-down work.
+
+## Rumors Fridays
+
+The first Friday of every month is “investment time,” a concept borrowed from [Thoughtbot](https://thoughtbot.com/). We use this day for professional development, studio operations, planning, and culture, internal projects, field trips, and community participation. We meet quarterly on a Rumors Friday to discuss progress toward internal projects and goals.
 
 ## Calendar
 
 Every three weeks or so we block out four to six weeks of work at a high level, project by project, on the big calendar we keep on the whiteboard. Meetings and such go into the shared Google calendar.
+
+## Meetings and calls
+
+We use Skype, Google Hangouts, or Slack calls for remote client meetings — it depends on the client. Meetings should be under an hour and should have a purpose and an agenda, even a simple one. Send a calendar invite for meetings. If someone is working remotely, conduct standup on a Slack call.
 
 ## Slack
 
